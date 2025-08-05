@@ -19,4 +19,4 @@ def get_stats():
             return (f"Total Predictions: {total}\n"
                     f"🔴 Red: {reds}\n🟢 Green: {greens}\n🟪 Violet: {violets}")
     except FileNotFoundError:
-        return "No predictions logged yet."\n
+        return "No predictions logged yet."
