@@ -1,6 +1,6 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
-from config import TELEGRAM_BOT_TOKEN
+from config import 7710160278:AAEuNEnQOfIz2zNMWGWLLNCiNwiBn_4h-gw
 from predictor import predict_color_number
 from database import log_trade, get_stats
 
