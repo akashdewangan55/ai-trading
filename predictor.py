@@ -19,4 +19,4 @@ def predict_color_number():
         'color': color,
         'number': number,
         'confidence': round(random.uniform(0.6, 0.95), 2)
-    }\n
+    }
