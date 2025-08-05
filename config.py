@@ -1,2 +1,2 @@
 TELEGRAM_BOT_TOKEN = 'YOUR_BOT_TOKEN'
-DATA_FILE = 'data/trades.csv'\n
+DATA_FILE = 'data/trades.csv'
